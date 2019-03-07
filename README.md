@@ -1,2 +1,2 @@
-# sim-utility
-sim utility for rtl
+# sim-util
+Sim utilities for systemverilog
